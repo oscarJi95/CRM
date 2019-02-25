@@ -8,7 +8,7 @@ Pre-requisitos:
 Para instalar esta base de datos se necesita de SQL SERVER 2017
 
 Autores:
-Joselyn Mongue
+Joselyn Monge
 Oscar Jimenez
 Heilyn Hernandez
 Andres Arriola
